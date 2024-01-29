@@ -1,0 +1,17 @@
+C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\bin\Debug\net8.0\Task_vs_FactoryStartNew.exe
+C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\bin\Debug\net8.0\Task_vs_FactoryStartNew.deps.json
+C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\bin\Debug\net8.0\Task_vs_FactoryStartNew.runtimeconfig.json
+C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\bin\Debug\net8.0\Task_vs_FactoryStartNew.dll
+C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\bin\Debug\net8.0\Task_vs_FactoryStartNew.pdb
+C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\obj\Debug\net8.0\Task_vs_FactoryStartNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\obj\Debug\net8.0\Task_vs_FactoryStartNew.AssemblyInfoInputs.cache
+C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\obj\Debug\net8.0\Task_vs_FactoryStartNew.AssemblyInfo.cs
+C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\obj\Debug\net8.0\Task_vs_FactoryStartNew.csproj.CoreCompileInputs.cache
+C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\obj\Debug\net8.0\Task_vs_FactoryStartNew.dll
+C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\obj\Debug\net8.0\refint\Task_vs_FactoryStartNew.dll
+C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\obj\Debug\net8.0\Task_vs_FactoryStartNew.pdb
+C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\obj\Debug\net8.0\Task_vs_FactoryStartNew.genruntimeconfig.cache
+C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\obj\Debug\net8.0\ref\Task_vs_FactoryStartNew.dll
+C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\obj\Debug\net8.0\Task_vs_FactoryStartNew.csproj.AssemblyReference.cache
+C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\obj\Debug\net8.0\Task_vs_FactoryStartNew.csproj.CopyComplete
