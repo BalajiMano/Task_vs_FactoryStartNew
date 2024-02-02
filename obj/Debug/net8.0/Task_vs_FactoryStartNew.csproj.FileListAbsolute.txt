@@ -15,3 +15,4 @@ C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\obj\Debug\net8.0\re
 C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\obj\Debug\net8.0\Task_vs_FactoryStartNew.csproj.AssemblyReference.cache
 C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\obj\Debug\net8.0\Task_vs_FactoryStartNew.csproj.CopyComplete
+C:\Balaji\Personal\Projects\.NetCore\Task_vs_FactoryStartNew\obj\Debug\net8.0\Task_vs_FactoryStartNew.sourcelink.json

@@ -6,7 +6,7 @@ internal class Taskfactory
 {
      /// <summary>
     /// Task.Factory.StartNew is the advanced version of Task.Start().
-    /// Unlike Task.Start(), we can await this task and it can return any value.
+    /// Unlike Task.Start(), we can await this task and it can return a value.
     /// It is also schedule the work to curent task scheduler, which mean UI thread task scheduler have to manage these task.
     /// We can pass object to delegate methods for more advanced customziation.
     /// </summary>
@@ -65,6 +65,28 @@ internal class Taskfactory
         return sum;
 
     }
+/// <summary>
+/// State Mutation is easy and smooth in both Task.Start and factory start by just pssing an object.
+/// This object will be assigned to Task Object before queued to threadpool task scheduler.
+/// </summary>
+    public void StartFactoryTaskWithMutation()
+  {
+    var tasks = new List<Task>();
+    for (var i = 1; i < 4; i++)
+    {
+     
+      var task = Task.Factory.StartNew(async (i) =>
+      {
+        await Task.Delay(1000);
+        Console.WriteLine($"Iteration {i}");
+      },i);
+      Console.WriteLine($"iteration value is {i}");
+      tasks.Add(task);
+    }
+    Task.WaitAll(tasks.ToArray());
+
+
+  }
 }
 
 public class CatFact

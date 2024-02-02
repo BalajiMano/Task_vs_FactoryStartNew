@@ -29,6 +29,30 @@ public class TaskRun
 
     }
 
+/// <summary>
+/// State Mutation is difficult and unneccessary overhead for compiler. Here we achieved the state mutation by introducing the new variable.
+/// For every loop, a object will created with value type object and that passed on to the async method.
+/// 
+/// </summary>
+      public void StartTaskWithMutation()
+  {
+    var tasks = new List<Task>();
+    for (var i = 1; i < 4; i++)
+    {
+       var iteration = i;
+      var task = Task.Run(async () =>
+      {
+        await Task.Delay(2000);
+        Console.WriteLine($"Iteration {iteration}");
+      });
+      Console.WriteLine($"iteration value is {iteration}");
+      tasks.Add(task);
+    }
+    Task.WaitAll(tasks.ToArray());
+
+
+  }
+
     public int CalculateSumOfSquare(IEnumerable<int> numbers)
     {
         int sum = 0;
